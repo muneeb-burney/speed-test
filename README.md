@@ -1,4 +1,4 @@
-# Professional C++ Typing Speed Test
+#C++ Typing Speed Test
 
 ## Introduction
 The Professional C++ Typing Speed Test is designed to evaluate your typing speed specifically in C++. This test focuses on common C++ syntax, keywords, and methods, providing a realistic typing environment for programmers.
