@@ -1,39 +1,29 @@
-# Speed Test
+# Professional C++ Typing Speed Test
 
-## Overview  
-This repository is designed for conducting and measuring speed tests for various network configurations and conditions. The project aims to help users understand the performance metrics of their internet connection and provide actionable insights based on the results.
+## Introduction
+The Professional C++ Typing Speed Test is designed to evaluate your typing speed specifically in C++. This test focuses on common C++ syntax, keywords, and methods, providing a realistic typing environment for programmers.
 
-## Features  
-- Comprehensive speed tests including download, upload, and ping measurements.  
-- A simple and intuitive user interface for real-time results.  
-- Detailed performance metrics that help in diagnosing network issues.
+## Test Format
+- The test consists of a passage of C++ code, and your task is to type it as accurately and quickly as possible.
+- You will be timed, and your speed will be measured in words per minute (WPM).
 
-## Requirements  
-- Python 3.6 or higher  
-- Required libraries (see requirements.txt)
+## Instructions
+1. Ensure your coding environment is set up.
+2. Start the timer once you begin typing.
+3. Type the provided code block below:
 
-## Installation  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/muneeb-burney/speed-test.git  
-   ```  
-2. Navigate into the project directory:  
-   ```bash  
-   cd speed-test  
-   ```  
-3. Install the required libraries:  
-   ```bash  
-   pip install -r requirements.txt  
-   ``` 
+```cpp
+#include <iostream>
+using namespace std;
 
-## Usage  
-To run the speed test, execute the following command:  
-```bash  
-python speed_test.py  
-```  
+int main() {
+    cout << "Hello, World!" << endl;
+    return 0;
+}
+```
 
-## Contributing  
-Contributions are welcome! Please follow the standard code of conduct and submit a pull request for any improvements or bug fixes.
+4. Stop the timer once you have finished typing.
+5. Record your time and calculate your WPM.
 
-## License  
-This project is licensed under the MIT License. See the LICENSE file for details.
+## Conclusion
+Regular practice can significantly improve your typing speed in C++. Good luck!
